@@ -1,0 +1,9 @@
+{
+  "total_queries": 6,
+  "successful_answers": 5,
+  "blocked_queries": 1,
+  "low_confidence_answers": 1,
+  "avg_confidence": 0.773,
+  "avg_sources_used": 10.4,
+  "avg_latency": 136.27
+}
