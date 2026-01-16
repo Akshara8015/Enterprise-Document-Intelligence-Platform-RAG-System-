@@ -14,8 +14,8 @@ Unlike basic chatbots, this system focuses on retrieval quality, explainability,
 
 # Tech Stack
 
-Python, LangChain
-HuggingFace Transformers
-FAISS (Vector DB)
-FastAPI, Streamlit
-Ollama / OpenAI (LLMs)
+- Python, LangChain
+- HuggingFace Transformers
+- FAISS (Vector DB)
+- FastAPI, Streamlit
+- Ollama / OpenAI (LLMs)
